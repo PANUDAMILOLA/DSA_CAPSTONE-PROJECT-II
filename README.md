@@ -38,3 +38,6 @@ This project creates a dynamic sales dashboard to track and analyze product and 
 
 ![image](https://github.com/user-attachments/assets/3e371c71-57d6-4e70-a659-2673eff8005e)
 
+### Dashboard
+
+![image](https://github.com/user-attachments/assets/7ed1ea1d-62f3-486e-a362-2488bd1f692b)
