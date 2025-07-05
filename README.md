@@ -22,5 +22,12 @@ This project creates a dynamic sales dashboard to track and analyze product and 
   -  How many products have fewer than 1,000 reviews? Which categories have products with the highest discounts?
   -   Identify the top 5 products in terms of rating and number of reviews combined.
   -   Final Task: Dashboard
+  
  ### Data Analysis:
- creation of pivot tables to answer the exploratory data analysis 
+ - spliting of long column into cells
+ - creation of short name for long name column
+ - addition of necessary columns for insight
+ - creation of pivot tables to answer the exploratory data analysis 
+  and dashboard
+### Results of Analysis
+
