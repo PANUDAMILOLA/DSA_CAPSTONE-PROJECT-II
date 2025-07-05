@@ -30,4 +30,5 @@ This project creates a dynamic sales dashboard to track and analyze product and 
  - creation of pivot tables to answer the exploratory data analysis 
   and dashboard
 ### Results of Analysis
+![image](https://github.com/user-attachments/assets/a5055af8-1b2e-4fc8-a661-3a27efa9d76b)
 
